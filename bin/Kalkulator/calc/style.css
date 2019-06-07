@@ -1,0 +1,30 @@
+
+
+.root{
+    -fx-background-color: #ff6eef;
+}
+
+.button{
+    -fx-background-color: #ff6eef;
+    -fx-text-fill: black;
+    -fx-border-color: grey;
+    -fx-font-size: 20px;
+}
+
+.button:hover{
+    -fx-background-color: white;
+}
+
+
+.text-area{
+    -fx-text-fill: #0019ff;
+    -fx-background-color: grey;
+}
+
+.operations{
+    -fx-background-color: #61EEFF;
+}
+
+.operations.hover{
+    -fx-background-color: white;
+}
